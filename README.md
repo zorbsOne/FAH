@@ -1,2 +1,4 @@
 # FAH
-Folding @ Home
+Folding @ Home 
+
+Debian/Ubuntu/Mint 
