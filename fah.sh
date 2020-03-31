@@ -1,4 +1,6 @@
-# This simple script will install the most recent Folding @ Home CLI application on your Debian/Ubuntu/Mint machine.
+#!/bin/bash
+#
+# This shell script will install the most recent Folding @ Home CLI application on your Debian/Ubuntu/Mint machine.
 #
 # For documentation: 
 # FAHClient --help.
@@ -19,4 +21,5 @@ sudo dpkg -i --force-depends fahclient_7.5.1_amd64.deb
 sudo dpkg -i --force-depends fahviewer_7.5.1_amd64.deb
 sudo dpkg -i --force-depends fahcontrol_7.5.1-1_all.deb
 
-# Complete.  The FAHClient is now installed and running as a service. Manage, monitor and update settings using the FAHControl.
+# Complete.  The FAHClient is now installed and running as a service.
+# Manage, monitor and update settings using the FAHControl.
