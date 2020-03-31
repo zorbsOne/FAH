@@ -1,5 +1,5 @@
 # FAH
-# FAH.sh shell script wrote by zorbsOne.
+# FAH.sh shell script wrote by Andrew M aka zorbsOne.
 
 Debian/Ubuntu/Mint script for installing Folding@Home's most recent 7.5.1 F@H application.
 
