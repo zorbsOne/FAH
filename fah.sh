@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# This shell script will install the most recent Folding @ Home CLI application on your Debian/Ubuntu/Mint machine.
+# This shell script will install the most recent Folding @ Home CLI application on your 64bit Debian/Ubuntu/Mint machine.
 #
 # For documentation: 
 # FAHClient --help.
